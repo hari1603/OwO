@@ -1,4 +1,4 @@
-# this is an if-else comparator 
+#this is an if-else comparator 
 if __name__ == "__main__":
     print("""                 *Notices Bulge*
 __        ___           _    _        _   _     _      
